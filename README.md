@@ -1,5 +1,8 @@
 # International PRRSV-2 Nomenclature Consortium
-Landing point for PRRSV-2 Nomenclature distributed materials
+The primary purpose of the International PRRSV-2 Nomenclature Consortium is curate the lineage nomenclature of PRRSV-2 through time. This repository hosts materials to aid in that mission. Materials includee:
+* New nomenclature proposal template
+* Reference sets for phylogenetic analysis
+* Informational guides on standards of nomenclature acceptence
 
 ## List of publications related to nomenclature for PRRSV-2
 Below is a list of publications defining the establishment of nomenclature conventions.
